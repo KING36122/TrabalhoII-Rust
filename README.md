@@ -1,0 +1,10 @@
+## TrabalhoII-Rust
+
+### Repositório destinado ao código do Trabalho II em Rust
+
+### Equipe:
+- CHEILA MARQUES MONTEIRO
+- FELIPE DE VASCONCELOS ASSUNÇÃO
+- GABRIEL FONSECA FERREIRA
+- MATHEUS IGOR MACEDO ALFAIA
+- THIAGO RODRIGUES DOS SANTOS

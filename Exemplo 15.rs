@@ -1,6 +1,5 @@
 fn main(){
 
-	
 	//declaração de variáveis de apoio
 	let b:u8 = 0b1010_1111;
 	let masc1:u8 = 0b1111_1100;

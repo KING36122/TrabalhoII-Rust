@@ -2,7 +2,7 @@
 
 ### Repositório destinado ao código do Trabalho II em Rust
 
-### EQUIPE:
+### Equipe:
 - CHEILA MARQUES MONTEIRO
 - FELIPE DE VASCONCELOS ASSUNÇÃO
 - GABRIEL FONSECA FERREIRA

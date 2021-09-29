@@ -15,7 +15,7 @@ fn main() {
     result = m;
     println!(" -m = {:016b} =  0x{:x} ",m, result);
     
-    
+    // segunda parte do resultado mostrando o valor de b e a operação a^0x4 que resulta no valor de c
     result = a ^ 0x4;
     println!(" -b = {:016b} =  0x{:x} ",result, result);
     

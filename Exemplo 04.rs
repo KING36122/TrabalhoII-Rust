@@ -1,5 +1,3 @@
-
-//Exemplo 4
 // b Possui o valor 0xA726 e este código mostra qual
 //o valor de ~b que neste caso é 0x58D9
 fn main() { 

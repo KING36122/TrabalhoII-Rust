@@ -6,7 +6,7 @@ fn main() {
     //declaração da variavel de resultado
     let mut result:u16;
     
-    //resultado mostrando o A,a máscara 1 e o resultado da operação a & 0xff00
+    //resultado mostrando o A,a máscara 1 e o resultado da operação a ^ 0xff00
     result= a;
     println!(" -a = {:016b} =  0x{:x} ",a, result);
 

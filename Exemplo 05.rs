@@ -6,7 +6,7 @@ fn main() {
    let b:u16 = 0xA726;
    let result:u16;
    result=a & b;
-   println!("a = {:16b} = 0x{:x} ",a,a);
-   println!("b = {:16b} = 0x{:x} ",b,b);
-   println!("a & b = {:16b} = 0x{:x} ",result,result);
+   println!("a = {:016b} = 0x{:x} ",a,a);
+   println!("b = {:016b} = 0x{:x} ",b,b);
+   println!("a & b = {:016b} = 0x{:x} ",result,result);
 }

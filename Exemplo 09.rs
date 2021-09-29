@@ -1,6 +1,5 @@
 fn main() {
-     let a:u16 = 0x6db7; // declaração da variavel de apoio
-    let b:u16 = 0x6c00;  //declaração da variavel de apoio
+    let a:u16 = 0x6db7; // declaração da variavel de apoio
     let m:u16 = 0xfc00;  //declaração da variavel de apoio
 
 
@@ -16,5 +15,5 @@ fn main() {
     
     
     result = a & 0xfc00;
-    println!(" -b = {:016b} =  0x{:x} ",b, result);
+    println!(" -b = {:016b} =  0x{:x} ",result, result);
 }

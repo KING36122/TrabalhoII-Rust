@@ -1,4 +1,3 @@
-//Exemplo 5
 // a Possui o valor 0x6DB7 e b Possui o valor 0xA726,este código mostra qual
 //o valor de a and b que neste caso é 0x2526
 fn main() {

@@ -1,4 +1,4 @@
-## TrabalhoII-Rust
+## TRABALHO II - RUST
 
 ### Repositório destinado ao código do Trabalho II em Rust
 
@@ -9,7 +9,7 @@
 - MATHEUS IGOR MACEDO ALFAIA - MATRÍCULA: 21955310
 - THIAGO RODRIGUES DOS SANTOS - MATRÍCULA: 21955310
 
-### Organização do trabalho:
+# ORGANIZAÇÃO DO TRABALHO:
 
 # Responsável: Thiago
 - Exemplo 1: slide 4 

@@ -1,6 +1,5 @@
 fn main(){
 
-	
 	//declaração da variável
 	let x:u8 = 1;
 

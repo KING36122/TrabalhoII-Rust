@@ -1,6 +1,5 @@
 fn main() {
-    
-    
+        
    /// Declaração das variaveis 
    let a: u16 = 0x7FF;
    let b: u32 = 0xC5;

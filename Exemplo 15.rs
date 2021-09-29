@@ -19,5 +19,4 @@ fn main(){
 	result1 = result | masc2;
 	println!("Masc2               => {:08b}",masc2);
 	println!("(B & Masc1) | Masc2 => {:08b}",result1);
-	
 }

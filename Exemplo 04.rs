@@ -6,6 +6,6 @@ fn main() {
    let b:u16 = 0xA726;
    let result:u16;
    result=!b;
-   println!("b = {:16b} = 0x{:x} ",b,b);
-   println!("~b = {:16b} = 0x{:x} ",result,result);
+   println!("b = {:016b} = 0x{:x} ",b,b);
+   println!("~b = {:016b} = 0x{:x} ",result,result);
 }

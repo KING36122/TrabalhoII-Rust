@@ -17,4 +17,5 @@ fn main() {
     
     result = a ^ 0xff;
     println!(" -b = {:016b} =  0x{:x} ",result, result);
+
 }

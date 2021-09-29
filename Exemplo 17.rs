@@ -32,4 +32,5 @@ fn main(){
 
 	aux = x << 7;
 	println!("{:08b}",aux);
+	
 }

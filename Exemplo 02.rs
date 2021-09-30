@@ -1,6 +1,6 @@
 fn main() {
         
-   /// Declaração das variaveis 
+   // Declaração das variaveis 
    let b: u32 = 0xC5;
    let c: u32 = 0x1111;
    let d: u32 = 0xFFFF;
@@ -13,28 +13,28 @@ fn main() {
    // ~0xC5 
    result1 = !b; // Complemento de b
    // dados de saidas com resultados
-   println!("Representação em bits de 0xC5   = {:032b}", b);
-   println!("Complemento de 0xC5             = 0x{:x}", result1);
-   println!("Representação em bits de 0x{:x} = {:032b\n\n}",result1, result1);
+   println!("Representação em bits de 0xC5   = \t{:032b}", b);
+   println!("Complemento de 0xC5             = \t0x{:x}", result1);
+   println!("Representação em bits de 0x{:x} = \t{:032b}\n",result1, result1);
    
    // ~0x1111
    result1 = !c; // Complemento de c
    // dados de saidas com resultados
-   println!("Representação em bits de 0x1111 = {:032b}", c);
-   println!("Complemento de 0x1111           = 0x{:x}", result1);
-   println!("Representação em bits de 0x{:x} = {:032b\n\n}",result1, result1);
+   println!("Representação em bits de 0x1111 = \t{:032b}", c);
+   println!("Complemento de 0x1111           = \t0x{:x}", result1);
+   println!("Representação em bits de 0x{:x} = \t{:032b}\n",result1, result1);
    
    // 0xFFFF
    result1 = !d; // Complemento de d
    // dados de saidas com resultados
-   println!("Representação em bits de 0xFFFF = {:032b}", d);
-   println!("Complemento de 0xFFFF           = 0x{:x}", result1);
-   println!("Representação em bits de 0x{:x} = {:032b\n\n}",result1, result1);
+   println!("Representação em bits de 0xFFFF = \t{:032b}", d);
+   println!("Complemento de 0xFFFF           = \t0x{:x}", result1);
+   println!("Representação em bits de 0x{:x} = \t{:032b}\n",result1, result1);
    
    // ~0x5B3C
    result1 = !e; // Complemento de e
    // dados de saidas com resultados
-   println!("Representação em bits de 0x5B3C = {:032b}", e);
-   println!("Complemento de 0x5B3C           = 0x{:x}", result1);
-   println!("Representação em bits de 0x{:x} = {:032b\n\n}",result1, result1);
+   println!("Representação em bits de 0x5B3C = \t{:032b}", e);
+   println!("Complemento de 0x5B3C           = \t0x{:x}", result1);
+   println!("Representação em bits de 0x{:x} = \t{:032b}\n",result1, result1);
 }

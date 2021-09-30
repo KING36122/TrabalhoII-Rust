@@ -10,6 +10,7 @@ Repositório destinado aos códigos do Trabalho II em Rust
 - THIAGO RODRIGUES DOS SANTOS - MATRÍCULA: 21953748
 
 # ORGANIZAÇÃO DO TRABALHO:
+O trabalho foi organizado para atender a todos os exemplos disponibilizados no slide e cada exemplo corresponde a um slide do mesmo.
 
 ## Responsável: Thiago
 - Exemplo 1: slide 4 

@@ -1,7 +1,7 @@
 fn main(){
 
 	//declaração da variável
-	let a:u16 = 0x6DC0;
+	let a:u16 = 0b0110_1101_1011_0111;
 	
 	//declaração da variável auxiliar
 	let mut b:u16;
@@ -13,7 +13,7 @@ fn main(){
 	println!("{:016b}",b);
 
 	b = a << 1;
-	println!("{:016b}",b);
+	println!("\n{:016b}",b);
 
 	b = a << 2;
 	println!("{:016b}",b);

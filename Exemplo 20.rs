@@ -29,5 +29,8 @@ fn main(){
 
 	b = a >> 6;
 	println!("{:016b}",b);
+	
+	let result: u16 = 0x1B6;
+	println!("\nb = 0x{:x}",result);
 
 }
